@@ -1,2 +1,2 @@
 # PeleMele
-UN application  ANDROID avec plusieurs fonctionnalitées
+Une application  ANDROID avec plusieurs fonctionnalitées
